@@ -1,2 +1,2 @@
 # launch-sequence
-MacOS fresh install resources
+a Voyager Studio dotfiles repo
